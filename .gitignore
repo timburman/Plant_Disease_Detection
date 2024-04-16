@@ -1,0 +1,8 @@
+*.html
+venv
+*.jpg
+*.png
+*.jpeg
+*.DS_Store
+*.webp
+*_New.h5
